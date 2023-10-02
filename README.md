@@ -1,2 +1,1 @@
-# Python-SDLC-project
-This is a project of mine that I am going to work on for the next months where I create an SDLC using Python
+This is a repository of mine which is going to include Python files where I am will try to improve my skills in python
